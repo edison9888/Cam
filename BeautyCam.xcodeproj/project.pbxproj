@@ -1,0 +1,442 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DFA5B56C152AB33B0046EEC1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFA5B56B152AB33B0046EEC1 /* UIKit.framework */; };
+		DFA5B56E152AB33B0046EEC1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFA5B56D152AB33B0046EEC1 /* Foundation.framework */; };
+		DFA5B570152AB33B0046EEC1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFA5B56F152AB33B0046EEC1 /* CoreGraphics.framework */; };
+		DFA5B576152AB33B0046EEC1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = DFA5B574152AB33B0046EEC1 /* InfoPlist.strings */; };
+		DFA5B578152AB33B0046EEC1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA5B577152AB33B0046EEC1 /* main.m */; };
+		DFA5B57C152AB33B0046EEC1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA5B57B152AB33B0046EEC1 /* AppDelegate.m */; };
+		DFA5B57F152AB33B0046EEC1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA5B57E152AB33B0046EEC1 /* ViewController.m */; };
+		DFA5B582152AB33B0046EEC1 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFA5B580152AB33B0046EEC1 /* ViewController.xib */; };
+		DFA5B58A152AB33C0046EEC1 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFA5B589152AB33C0046EEC1 /* SenTestingKit.framework */; };
+		DFA5B58B152AB33C0046EEC1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFA5B56B152AB33B0046EEC1 /* UIKit.framework */; };
+		DFA5B58C152AB33C0046EEC1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFA5B56D152AB33B0046EEC1 /* Foundation.framework */; };
+		DFA5B594152AB33C0046EEC1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = DFA5B592152AB33C0046EEC1 /* InfoPlist.strings */; };
+		DFA5B597152AB33C0046EEC1 /* BeautyCamTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA5B596152AB33C0046EEC1 /* BeautyCamTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DFA5B58D152AB33C0046EEC1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DFA5B55E152AB33B0046EEC1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DFA5B566152AB33B0046EEC1;
+			remoteInfo = BeautyCam;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DFA5B567152AB33B0046EEC1 /* BeautyCam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeautyCam.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DFA5B56B152AB33B0046EEC1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		DFA5B56D152AB33B0046EEC1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		DFA5B56F152AB33B0046EEC1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		DFA5B573152AB33B0046EEC1 /* BeautyCam-Info.plist */ = {isa = PBXFileReference; path = "BeautyCam-Info.plist"; sourceTree = "<group>"; };
+		DFA5B575152AB33B0046EEC1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		DFA5B577152AB33B0046EEC1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DFA5B579152AB33B0046EEC1 /* BeautyCam-Prefix.pch */ = {isa = PBXFileReference; path = "BeautyCam-Prefix.pch"; sourceTree = "<group>"; };
+		DFA5B57A152AB33B0046EEC1 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		DFA5B57B152AB33B0046EEC1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DFA5B57D152AB33B0046EEC1 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		DFA5B57E152AB33B0046EEC1 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DFA5B581152AB33B0046EEC1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		DFA5B588152AB33C0046EEC1 /* BeautyCamTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeautyCamTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DFA5B589152AB33C0046EEC1 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		DFA5B591152AB33C0046EEC1 /* BeautyCamTests-Info.plist */ = {isa = PBXFileReference; path = "BeautyCamTests-Info.plist"; sourceTree = "<group>"; };
+		DFA5B593152AB33C0046EEC1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		DFA5B595152AB33C0046EEC1 /* BeautyCamTests.h */ = {isa = PBXFileReference; path = BeautyCamTests.h; sourceTree = "<group>"; };
+		DFA5B596152AB33C0046EEC1 /* BeautyCamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BeautyCamTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DFA5B564152AB33B0046EEC1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFA5B56C152AB33B0046EEC1 /* UIKit.framework in Frameworks */,
+				DFA5B56E152AB33B0046EEC1 /* Foundation.framework in Frameworks */,
+				DFA5B570152AB33B0046EEC1 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DFA5B584152AB33C0046EEC1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFA5B58A152AB33C0046EEC1 /* SenTestingKit.framework in Frameworks */,
+				DFA5B58B152AB33C0046EEC1 /* UIKit.framework in Frameworks */,
+				DFA5B58C152AB33C0046EEC1 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DFA5B55C152AB33B0046EEC1 = {
+			isa = PBXGroup;
+			children = (
+				DFA5B571152AB33B0046EEC1 /* BeautyCam */,
+				DFA5B58F152AB33C0046EEC1 /* BeautyCamTests */,
+				DFA5B56A152AB33B0046EEC1 /* Frameworks */,
+				DFA5B568152AB33B0046EEC1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DFA5B568152AB33B0046EEC1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DFA5B567152AB33B0046EEC1 /* BeautyCam.app */,
+				DFA5B588152AB33C0046EEC1 /* BeautyCamTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DFA5B56A152AB33B0046EEC1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DFA5B56B152AB33B0046EEC1 /* UIKit.framework */,
+				DFA5B56D152AB33B0046EEC1 /* Foundation.framework */,
+				DFA5B56F152AB33B0046EEC1 /* CoreGraphics.framework */,
+				DFA5B589152AB33C0046EEC1 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DFA5B571152AB33B0046EEC1 /* BeautyCam */ = {
+			isa = PBXGroup;
+			children = (
+				DFA5B57A152AB33B0046EEC1 /* AppDelegate.h */,
+				DFA5B57B152AB33B0046EEC1 /* AppDelegate.m */,
+				DFA5B57D152AB33B0046EEC1 /* ViewController.h */,
+				DFA5B57E152AB33B0046EEC1 /* ViewController.m */,
+				DFA5B580152AB33B0046EEC1 /* ViewController.xib */,
+				DFA5B572152AB33B0046EEC1 /* Supporting Files */,
+			);
+			path = BeautyCam;
+			sourceTree = "<group>";
+		};
+		DFA5B572152AB33B0046EEC1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DFA5B573152AB33B0046EEC1 /* BeautyCam-Info.plist */,
+				DFA5B574152AB33B0046EEC1 /* InfoPlist.strings */,
+				DFA5B577152AB33B0046EEC1 /* main.m */,
+				DFA5B579152AB33B0046EEC1 /* BeautyCam-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DFA5B58F152AB33C0046EEC1 /* BeautyCamTests */ = {
+			isa = PBXGroup;
+			children = (
+				DFA5B595152AB33C0046EEC1 /* BeautyCamTests.h */,
+				DFA5B596152AB33C0046EEC1 /* BeautyCamTests.m */,
+				DFA5B590152AB33C0046EEC1 /* Supporting Files */,
+			);
+			path = BeautyCamTests;
+			sourceTree = "<group>";
+		};
+		DFA5B590152AB33C0046EEC1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DFA5B591152AB33C0046EEC1 /* BeautyCamTests-Info.plist */,
+				DFA5B592152AB33C0046EEC1 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DFA5B566152AB33B0046EEC1 /* BeautyCam */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DFA5B59A152AB33C0046EEC1 /* Build configuration list for PBXNativeTarget "BeautyCam" */;
+			buildPhases = (
+				DFA5B563152AB33B0046EEC1 /* Sources */,
+				DFA5B564152AB33B0046EEC1 /* Frameworks */,
+				DFA5B565152AB33B0046EEC1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BeautyCam;
+			productName = BeautyCam;
+			productReference = DFA5B567152AB33B0046EEC1 /* BeautyCam.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DFA5B587152AB33C0046EEC1 /* BeautyCamTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DFA5B59D152AB33C0046EEC1 /* Build configuration list for PBXNativeTarget "BeautyCamTests" */;
+			buildPhases = (
+				DFA5B583152AB33C0046EEC1 /* Sources */,
+				DFA5B584152AB33C0046EEC1 /* Frameworks */,
+				DFA5B585152AB33C0046EEC1 /* Resources */,
+				DFA5B586152AB33C0046EEC1 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DFA5B58E152AB33C0046EEC1 /* PBXTargetDependency */,
+			);
+			name = BeautyCamTests;
+			productName = BeautyCamTests;
+			productReference = DFA5B588152AB33C0046EEC1 /* BeautyCamTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DFA5B55E152AB33B0046EEC1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = DFA5B561152AB33B0046EEC1 /* Build configuration list for PBXProject "BeautyCam" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DFA5B55C152AB33B0046EEC1;
+			productRefGroup = DFA5B568152AB33B0046EEC1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DFA5B566152AB33B0046EEC1 /* BeautyCam */,
+				DFA5B587152AB33C0046EEC1 /* BeautyCamTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DFA5B565152AB33B0046EEC1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFA5B576152AB33B0046EEC1 /* InfoPlist.strings in Resources */,
+				DFA5B582152AB33B0046EEC1 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DFA5B585152AB33C0046EEC1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFA5B594152AB33C0046EEC1 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		DFA5B586152AB33C0046EEC1 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DFA5B563152AB33B0046EEC1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFA5B578152AB33B0046EEC1 /* main.m in Sources */,
+				DFA5B57C152AB33B0046EEC1 /* AppDelegate.m in Sources */,
+				DFA5B57F152AB33B0046EEC1 /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DFA5B583152AB33C0046EEC1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DFA5B597152AB33C0046EEC1 /* BeautyCamTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DFA5B58E152AB33C0046EEC1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DFA5B566152AB33B0046EEC1 /* BeautyCam */;
+			targetProxy = DFA5B58D152AB33C0046EEC1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		DFA5B574152AB33B0046EEC1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DFA5B575152AB33B0046EEC1 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		DFA5B580152AB33B0046EEC1 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DFA5B581152AB33B0046EEC1 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+		DFA5B592152AB33C0046EEC1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DFA5B593152AB33C0046EEC1 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DFA5B598152AB33C0046EEC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		DFA5B599152AB33C0046EEC1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DFA5B59B152AB33C0046EEC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BeautyCam/BeautyCam-Prefix.pch";
+				INFOPLIST_FILE = "BeautyCam/BeautyCam-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		DFA5B59C152AB33C0046EEC1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BeautyCam/BeautyCam-Prefix.pch";
+				INFOPLIST_FILE = "BeautyCam/BeautyCam-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		DFA5B59E152AB33C0046EEC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/BeautyCam.app/BeautyCam";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BeautyCam/BeautyCam-Prefix.pch";
+				INFOPLIST_FILE = "BeautyCamTests/BeautyCamTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		DFA5B59F152AB33C0046EEC1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/BeautyCam.app/BeautyCam";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BeautyCam/BeautyCam-Prefix.pch";
+				INFOPLIST_FILE = "BeautyCamTests/BeautyCamTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DFA5B561152AB33B0046EEC1 /* Build configuration list for PBXProject "BeautyCam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DFA5B598152AB33C0046EEC1 /* Debug */,
+				DFA5B599152AB33C0046EEC1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DFA5B59A152AB33C0046EEC1 /* Build configuration list for PBXNativeTarget "BeautyCam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DFA5B59B152AB33C0046EEC1 /* Debug */,
+				DFA5B59C152AB33C0046EEC1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		DFA5B59D152AB33C0046EEC1 /* Build configuration list for PBXNativeTarget "BeautyCamTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DFA5B59E152AB33C0046EEC1 /* Debug */,
+				DFA5B59F152AB33C0046EEC1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DFA5B55E152AB33B0046EEC1 /* Project object */;
+}
