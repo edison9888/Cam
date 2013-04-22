@@ -1,0 +1,1629 @@
+TGPUImage
+v4
+r1
+cCheck dependencies
+cProcessPCH /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch.pth Source/GPUImage-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-dnteiddrwevjzyawfuqucznrviza/GPUImage-Prefix.pch.pth Source/GPUImage-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOpenGLESContext.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOpenGLESContext.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageView.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageVideoCamera.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVideoCamera.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOutput.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOutput.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GLProgram.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004F6C3B800000000000000110
+t1332493184
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7807DB000000000015F8A0
+t1316489179
+s1439904
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004E78069100000000000748C0
+t1316488849
+s477376
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004E72F744000000000001A9B0
+t1316157252
+s108976
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004E72F6E00000000000017190
+t1316157152
+s94608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F8910000000000173260
+t1316157585
+s1520224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7808C7000000000078BE50
+t1316489415
+s7913040
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/libGPUImage.a
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GLProgram.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImage.LinkFileList
+c000000004F9694C2000000000000258B
+t1335268546
+s9611
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageAdaptiveThresholdFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageBlueFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageBoxBlurFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageBrightnessFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageBulgeDistortionFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageCGAColorspaceFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageChromaKeyBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageColorBurnBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageColorDodgeBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageColorInvertFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageColorMatrixFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageContrastFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageCropFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageCrosshatchFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageDarkenBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageDifferenceBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageDissolveBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageExclusionBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageExposureFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFastBlurFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFilterGroup.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageGammaFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageGaussianBlurFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageGaussianSelectiveBlurFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageGrayscaleFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageHardLightBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageHazeFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageKuwaharaFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageLightenBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageLuminanceThresholdFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageMovie.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageMovieWriter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageMultiplyBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOpenGLESContext.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOutput.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOverlayBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePicture.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePinchDistortionFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePixellateFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePolarPixellateFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePosterizeFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageRawData.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageRedFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageRotationFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSaturationFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageScreenBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSepiaFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSharpenFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSketchFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSobelEdgeDetectionFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSoftLightBlendFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageStillCamera.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageStretchDistortionFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSwirlFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageTextureOutput.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageToonFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageTransformFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageTwoPassFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageUnsharpMaskFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageVideoCamera.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageView.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageVignetteFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageYellowFilter.o
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GLProgram.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageAdaptiveThresholdFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageBlueFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageBoxBlurFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageBrightnessFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageBulgeDistortionFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageCGAColorspaceFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageChromaKeyBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageColorBurnBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageColorDodgeBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageColorInvertFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageColorMatrixFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageContrastFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageCropFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageCrosshatchFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageDarkenBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageDifferenceBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageDissolveBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageExclusionBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageExposureFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageFastBlurFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageFilterGroup.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageGammaFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageGaussianBlurFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageGaussianSelectiveBlurFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageGrayscaleFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageHardLightBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageHazeFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageKuwaharaFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageLightenBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageLuminanceThresholdFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageMovie.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageMovieWriter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageMultiplyBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageOpenGLESContext.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageOutput.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageOverlayBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImagePicture.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImagePinchDistortionFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImagePixellateFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImagePolarPixellateFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImagePosterizeFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageRawData.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageRedFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageRotationFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageSaturationFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageScreenBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageSepiaFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageSharpenFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageSketchFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageSobelEdgeDetectionFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageSoftLightBlendFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageStillCamera.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageStretchDistortionFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageSwirlFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageTextureOutput.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageToonFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageTransformFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageTwoPassFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageUnsharpMaskFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageVideoCamera.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageView.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageVignetteFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/StaticAnalyzer/normal/armv7/GPUImageYellowFilter.plist
+t2
+s0
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m
+c000000004F9694860000000000001C99
+t1335268486
+s7321
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImage-Prefix.pch
+c000000004F8400370000000000000130
+t1334050871
+s304
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageAdaptiveThresholdFilter.m
+c000000004F8BDFEF00000000000007EF
+t1334566895
+s2031
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBlueFilter.m
+c000000004F824C71000000000000016C
+t1333939313
+s364
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBoxBlurFilter.m
+c000000004F797F7C00000000000011DD
+t1333362556
+s4573
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBrightnessFilter.m
+c000000004F797F7C0000000000000430
+t1333362556
+s1072
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBulgeDistortionFilter.m
+c000000004F797F7C000000000000089B
+t1333362556
+s2203
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCGAColorspaceFilter.m
+c000000004F797F7C0000000000000785
+t1333362556
+s1925
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageChromaKeyBlendFilter.m
+c000000004F797F7C0000000000000BF7
+t1333362556
+s3063
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorBurnBlendFilter.m
+c000000004F797F7C00000000000002FE
+t1333362556
+s766
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorDodgeBlendFilter.m
+c000000004F797F7C00000000000002F9
+t1333362556
+s761
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorInvertFilter.m
+c000000004F797F7C0000000000000281
+t1333362556
+s641
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorMatrixFilter.m
+c000000004F797F7C00000000000006F8
+t1333362556
+s1784
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageContrastFilter.m
+c000000004F797F7C000000000000041A
+t1333362556
+s1050
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCropFilter.m
+c000000004F797F7C00000000000006E9
+t1333362556
+s1769
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCrosshatchFilter.m
+c000000004F797F7C000000000000048B
+t1333362556
+s1163
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDarkenBlendFilter.m
+c000000004F797F7C00000000000002B0
+t1333362556
+s688
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDifferenceBlendFilter.m
+c000000004F797F7C00000000000002EF
+t1333362556
+s751
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDissolveBlendFilter.m
+c000000004F838E950000000000000473
+t1334021781
+s1139
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageExclusionBlendFilter.m
+c000000004F797F7C00000000000002E3
+t1333362556
+s739
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageExposureFilter.m
+c000000004F797F7C0000000000000416
+t1333362556
+s1046
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFastBlurFilter.m
+c000000004F797F7C000000000000126F
+t1333362556
+s4719
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilter.m
+c000000004F9693FE00000000000036BB
+t1335268350
+s14011
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilterGroup.m
+c000000004F8BDFAE0000000000000CDB
+t1334566830
+s3291
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGammaFilter.m
+c000000004F797F7C00000000000003E7
+t1333362556
+s999
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGaussianBlurFilter.m
+c000000004F7E82520000000000001502
+t1333690962
+s5378
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGaussianSelectiveBlurFilter.m
+c000000004F7E58AD0000000000000EF2
+t1333680301
+s3826
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGrayscaleFilter.m
+c000000004F82C4CC00000000000002B6
+t1333970124
+s694
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageHardLightBlendFilter.m
+c000000004F797F7C0000000000000562
+t1333362556
+s1378
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageHazeFilter.m
+c000000004F797F7C0000000000000619
+t1333362556
+s1561
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageKuwaharaFilter.m
+c000000004F797F7C0000000000000A6E
+t1333362556
+s2670
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageLightenBlendFilter.m
+c000000004F797F7C00000000000002B4
+t1333362556
+s692
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageLuminanceThresholdFilter.m
+c000000004F797F7C00000000000004D7
+t1333362556
+s1239
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMovie.m
+c000000004F797F7C0000000000000EAF
+t1333362556
+s3759
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMovieWriter.m
+c000000004F797F7C00000000000038E5
+t1333362556
+s14565
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMultiplyBlendFilter.m
+c000000004F797F7C00000000000002B4
+t1333362556
+s692
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOpenGLESContext.m
+c000000004F96939B000000000000077A
+t1335268251
+s1914
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOutput.m
+c000000004F9694330000000000000F95
+t1335268403
+s3989
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOverlayBlendFilter.m
+c000000004F797F7C0000000000000425
+t1333362556
+s1061
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePicture.m
+c000000004F9518B30000000000000B97
+t1335171251
+s2967
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePinchDistortionFilter.m
+c000000004F797F7C000000000000086E
+t1333362556
+s2158
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePixellateFilter.m
+c000000004F797F7C000000000000063E
+t1333362556
+s1598
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePolarPixellateFilter.m
+c000000004F797F7C000000000000089B
+t1333362556
+s2203
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePosterizeFilter.m
+c000000004F797F7C0000000000000439
+t1333362556
+s1081
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRawData.m
+c000000004F797F7C0000000000001B08
+t1333362556
+s6920
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRedFilter.m
+c000000004F827075000000000000016A
+t1333948533
+s362
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRotationFilter.m
+c000000004F797F7C0000000000000BCC
+t1333362556
+s3020
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSaturationFilter.m
+c000000004F797F7C0000000000000545
+t1333362556
+s1349
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageScreenBlendFilter.m
+c000000004F797F7C0000000000000307
+t1333362556
+s775
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSepiaFilter.m
+c000000004F797F7C0000000000000180
+t1333362556
+s384
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSharpenFilter.m
+c000000004F797F7C0000000000000D86
+t1333362556
+s3462
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSketchFilter.m
+c000000004F82C19D0000000000000722
+t1333969309
+s1826
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSobelEdgeDetectionFilter.m
+c000000004F797F7C0000000000001548
+t1333362556
+s5448
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSoftLightBlendFilter.m
+c000000004F797F7C0000000000000313
+t1333362556
+s787
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageStillCamera.m
+c000000004F866B840000000000000694
+t1334209412
+s1684
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageStretchDistortionFilter.m
+c000000004F797F7C0000000000000634
+t1333362556
+s1588
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSwirlFilter.m
+c000000004F797F7C0000000000000970
+t1333362556
+s2416
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTextureOutput.m
+c000000004F797F7C000000000000029C
+t1333362556
+s668
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageToonFilter.m
+c000000004F82C3670000000000000FD4
+t1333969767
+s4052
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTransformFilter.m
+c000000004F797F7C00000000000009DD
+t1333362556
+s2525
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTwoPassFilter.m
+c000000004F797F7C0000000000001858
+t1333362556
+s6232
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageUnsharpMaskFilter.m
+c000000004F797F7C00000000000008D6
+t1333362556
+s2262
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVideoCamera.m
+c000000004F969422000000000000272D
+t1335268386
+s10029
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageView.m
+c000000004F797F7C0000000000001A59
+t1333362556
+s6745
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVignetteFilter.m
+c000000004F797F7C00000000000004C1
+t1333362556
+s1217
+
+N/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageYellowFilter.m
+c000000004F824ACC0000000000000171
+t1333938892
+s369
+
+N/var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-dnteiddrwevjzyawfuqucznrviza/GPUImage-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch.pth
+t2
+s0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageAdaptiveThresholdFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBlueFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBoxBlurFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBrightnessFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBulgeDistortionFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCGAColorspaceFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageChromaKeyBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorBurnBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorDodgeBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorInvertFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorMatrixFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageContrastFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCropFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCrosshatchFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDarkenBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDifferenceBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDissolveBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageExclusionBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageExposureFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFastBlurFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilterGroup.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGammaFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGaussianBlurFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGaussianSelectiveBlurFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGrayscaleFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageHardLightBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageHazeFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageKuwaharaFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageLightenBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageLuminanceThresholdFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMovie.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMovieWriter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMultiplyBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOpenGLESContext.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOutput.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOverlayBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePicture.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePinchDistortionFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePixellateFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePolarPixellateFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePosterizeFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRawData.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRedFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRotationFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSaturationFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageScreenBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSepiaFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSharpenFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSketchFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSobelEdgeDetectionFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSoftLightBlendFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageStillCamera.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageStretchDistortionFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSwirlFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTextureOutput.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageToonFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTransformFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTwoPassFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageUnsharpMaskFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVideoCamera.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageView.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVignetteFilter.m
+r0
+
+CAnalyze /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageYellowFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageAdaptiveThresholdFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBlueFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBoxBlurFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBrightnessFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBulgeDistortionFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCGAColorspaceFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageChromaKeyBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorBurnBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorDodgeBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorInvertFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorMatrixFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageContrastFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCropFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCrosshatchFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDarkenBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDifferenceBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDissolveBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageExclusionBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageExposureFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFastBlurFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilterGroup.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGammaFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGaussianBlurFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGaussianSelectiveBlurFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGrayscaleFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageHardLightBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageHazeFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageKuwaharaFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageLightenBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageLuminanceThresholdFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMovie.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMovieWriter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMultiplyBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOpenGLESContext.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOutput.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOverlayBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePicture.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePinchDistortionFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePixellateFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePolarPixellateFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePosterizeFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRawData.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRedFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRotationFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSaturationFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageScreenBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSepiaFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSharpenFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSketchFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSobelEdgeDetectionFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSoftLightBlendFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageStillCamera.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageStretchDistortionFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSwirlFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTextureOutput.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageToonFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTransformFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTwoPassFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageUnsharpMaskFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVideoCamera.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageView.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVignetteFilter.m
+r0
+
+CBuild AST from /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageYellowFilter.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa73bb341cc46b541^d4ee9b42cc46b541^---0#1#0#--18"Check dependencies36"04339354-5E16-4988-BD2B-527F9B621E35-
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GLProgram.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356961347.735129
+e356961347.776740
+r0
+xCompileC
+x../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GLProgram.o
+x/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:40:23: error: 'autorelease' is unavailable: not available in automatic reference counting mode [3]
+o         attributes = [[[NSMutableArray alloc] init] autorelease];
+o                       ^
+o/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here [3]
+o - (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o ^
+o/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:40:23:{40:53-40:64}: error: ARC forbids explicit message send of 'autorelease' [4]
+o         attributes = [[[NSMutableArray alloc] init] autorelease];
+o                       ^                             ~~~~~~~~~~~
+o/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:41:21: error: 'autorelease' is unavailable: not available in automatic reference counting mode [3]
+o         uniforms = [[[NSMutableArray alloc] init] autorelease];
+o                     ^
+o/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here [3]
+o - (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o ^
+o/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:41:21:{41:51-41:62}: error: ARC forbids explicit message send of 'autorelease' [4]
+o         uniforms = [[[NSMutableArray alloc] init] autorelease];
+o                     ^                             ~~~~~~~~~~~
+o/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:192:22: error: 'autorelease' is unavailable: not available in automatic reference counting mode [3]
+o     NSString *log = [[[NSString alloc] initWithBytes:logBytes 
+o                      ^
+o/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here [3]
+o - (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
+o ^
+o/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:192:22:{194:76-194:87}: error: ARC forbids explicit message send of 'autorelease' [4]
+o     NSString *log = [[[NSString alloc] initWithBytes:logBytes 
+o                      ^
+o6 errors generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.mdb51bc43cc46b541^287cc643cc46b541^-2377"/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:40:23: error: 'autorelease' is unavailable: not available in automatic reference counting mode [3]         attributes = [[[NSMutableArray alloc] init] autorelease];                       ^/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here [3] - (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE; ^/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:40:23:{40:53-40:64}: error: ARC forbids explicit message send of 'autorelease' [4]         attributes = [[[NSMutableArray alloc] init] autorelease];                       ^                             ~~~~~~~~~~~/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:41:21: error: 'autorelease' is unavailable: not available in automatic reference counting mode [3]         uniforms = [[[NSMutableArray alloc] init] autorelease];                     ^/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here [3] - (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE; ^/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:41:21:{41:51-41:62}: error: ARC forbids explicit message send of 'autorelease' [4]         uniforms = [[[NSMutableArray alloc] init] autorelease];                     ^                             ~~~~~~~~~~~/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:192:22: error: 'autorelease' is unavailable: not available in automatic reference counting mode [3]     NSString *log = [[[NSString alloc] initWithBytes:logBytes                       ^/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here [3] - (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE; ^/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m:192:22:{194:76-194:87}: error: ARC forbids explicit message send of 'autorelease' [4]     NSString *log = [[[NSString alloc] initWithBytes:logBytes                       ^6 errors generated.9(21%IDEActivityLogMessage2@80"'autorelease' is unavailable: not available in automatic reference counting mode-356961347#0#165#-2#-23%DVTTextDocumentLocation3@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^39#22#39#22#18446744073709551615#0#14"Semantic Issue--2@55"Declaration has been explicitly marked unavailable here-356961347#257#208#-0#-3@151"file://localhost/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^36#0#36#0#18446744073709551615#0#14"Semantic Issue--2@50"ARC forbids explicit message send of 'autorelease'-356961347#522#149#-2#-3@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^39#22#39#22#18446744073709551615#0#34"Automatic Reference Counting Issue1(3@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^39#52#39#63#18446744073709551615#0#-2@80"'autorelease' is unavailable: not available in automatic reference counting mode-356961347#803#165#-2#-3@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^40#20#40#20#18446744073709551615#0#14"Semantic Issue--2@55"Declaration has been explicitly marked unavailable here-356961347#1056#208#-0#-3@151"file://localhost/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^36#0#36#0#18446744073709551615#0#14"Semantic Issue--2@50"ARC forbids explicit message send of 'autorelease'-356961347#1321#149#-2#-3@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^40#20#40#20#18446744073709551615#0#34"Automatic Reference Counting Issue1(3@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^40#50#40#61#18446744073709551615#0#-2@80"'autorelease' is unavailable: not available in automatic reference counting mode-356961347#1598#166#-2#-3@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^191#21#191#21#18446744073709551615#0#14"Semantic Issue--2@55"Declaration has been explicitly marked unavailable here-356961347#1852#208#-0#-3@151"file://localhost/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^36#0#36#0#18446744073709551615#0#14"Semantic Issue--2@50"ARC forbids explicit message send of 'autorelease'-356961347#2117#152#-2#-3@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^191#21#191#21#18446744073709551615#0#34"Automatic Reference Counting Issue1(3@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^193#75#193#86#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@81"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m0000000000000000^2610"CompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GLProgram.o Source/GLProgram.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lovemuz98/Documents/BeautyCam/framework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-generated-files.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-own-target-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-all-target-headers.hmap -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-project-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/include -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources/armv7 -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources -F/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos -include /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch -MMD -MT dependencies -MF /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GLProgram.d -c /Users/lovemuz98/Documents/BeautyCam/framework/Source/GLProgram.m -o /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GLProgram.o36"0AA733A4-A829-4F28-B4CF-78A7493C7751-
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageAdaptiveThresholdFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageAdaptiveThresholdFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageBlueFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBlueFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageBoxBlurFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBoxBlurFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageBrightnessFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBrightnessFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageBulgeDistortionFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageBulgeDistortionFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageCGAColorspaceFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCGAColorspaceFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageChromaKeyBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageChromaKeyBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageColorBurnBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorBurnBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageColorDodgeBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorDodgeBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageColorInvertFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorInvertFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageColorMatrixFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageColorMatrixFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageContrastFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageContrastFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageCropFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCropFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageCrosshatchFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageCrosshatchFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageDarkenBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDarkenBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageDifferenceBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDifferenceBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageDissolveBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageDissolveBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageExclusionBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageExclusionBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageExposureFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageExposureFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFastBlurFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFastBlurFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356961347.323469
+e356961347.544537
+r1
+xCompileC
+x../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFilter.o
+x/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilter.ma2ef5243cc46b541^90678b43cc46b541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilter.m0000000000000000^2635"CompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFilter.o Source/GPUImageFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lovemuz98/Documents/BeautyCam/framework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-generated-files.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-own-target-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-all-target-headers.hmap -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-project-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/include -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources/armv7 -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources -F/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos -include /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch -MMD -MT dependencies -MF /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFilter.d -c /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilter.m -o /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFilter.o36"C023C102-AA10-4C9A-A507-92B2F5DC433F-
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageFilterGroup.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageFilterGroup.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageGammaFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGammaFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageGaussianBlurFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGaussianBlurFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageGaussianSelectiveBlurFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGaussianSelectiveBlurFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageGrayscaleFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageGrayscaleFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageHardLightBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageHardLightBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageHazeFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageHazeFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageKuwaharaFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageKuwaharaFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageLightenBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageLightenBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageLuminanceThresholdFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageLuminanceThresholdFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageMovie.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMovie.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageMovieWriter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMovieWriter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageMultiplyBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageMultiplyBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOpenGLESContext.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOpenGLESContext.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356961347.242635
+e356961347.352599
+r1
+xCompileC
+x../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOpenGLESContext.o
+x/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOpenGLESContext.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOpenGLESContext.m9f3e3e43cc46b541^dd435a43cc46b541^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOpenGLESContext.m0000000000000000^2680"CompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOpenGLESContext.o Source/GPUImageOpenGLESContext.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lovemuz98/Documents/BeautyCam/framework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-generated-files.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-own-target-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-all-target-headers.hmap -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-project-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/include -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources/armv7 -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources -F/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos -include /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch -MMD -MT dependencies -MF /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOpenGLESContext.d -c /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOpenGLESContext.m -o /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOpenGLESContext.o36"D357A6EF-9A23-4BCE-B45F-B7655000A238-
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOutput.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOutput.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356961347.566849
+e356961347.733256
+r1
+xCompileC
+x../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOutput.o
+x/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOutput.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOutput.me44a9143cc46b541^a6b7bb43cc46b541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOutput.m0000000000000000^2635"CompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOutput.o Source/GPUImageOutput.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lovemuz98/Documents/BeautyCam/framework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-generated-files.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-own-target-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-all-target-headers.hmap -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-project-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/include -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources/armv7 -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources -F/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos -include /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch -MMD -MT dependencies -MF /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOutput.d -c /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOutput.m -o /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOutput.o36"4322485F-5ED9-4CF2-BC3F-A9146ED56AD7-
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageOverlayBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageOverlayBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePicture.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePicture.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePinchDistortionFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePinchDistortionFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePixellateFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePixellateFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePolarPixellateFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePolarPixellateFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImagePosterizeFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImagePosterizeFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageRawData.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRawData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageRedFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRedFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageRotationFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageRotationFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSaturationFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSaturationFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageScreenBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageScreenBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSepiaFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSepiaFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSharpenFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSharpenFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSketchFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSketchFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSobelEdgeDetectionFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSobelEdgeDetectionFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSoftLightBlendFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSoftLightBlendFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageStillCamera.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageStillCamera.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageStretchDistortionFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageStretchDistortionFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageSwirlFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageSwirlFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageTextureOutput.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTextureOutput.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageToonFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageToonFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageTransformFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTransformFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageTwoPassFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageTwoPassFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageUnsharpMaskFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageUnsharpMaskFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageVideoCamera.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVideoCamera.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356961347.545925
+e356961347.893317
+r0
+xCompileC
+x../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageVideoCamera.o
+x/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVideoCamera.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVideoCamera.mf7ea8b43cc46b541^594fe943cc46b541^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVideoCamera.m0000000000000000^2660"CompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageVideoCamera.o Source/GPUImageVideoCamera.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lovemuz98/Documents/BeautyCam/framework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-generated-files.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-own-target-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-all-target-headers.hmap -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-project-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/include -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources/armv7 -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources -F/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos -include /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch -MMD -MT dependencies -MF /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageVideoCamera.d -c /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVideoCamera.m -o /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageVideoCamera.o36"0C4F96FF-7D58-4732-81EE-11CE2AFBE24F-
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageView.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356961347.353962
+e356961347.565566
+r1
+xCompileC
+x../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageView.o
+x/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageView.m0abd5a43cc46b541^d8d59043cc46b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageView.m0000000000000000^2625"CompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageView.o Source/GPUImageView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lovemuz98/Documents/BeautyCam/framework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-generated-files.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-own-target-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-all-target-headers.hmap -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-project-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/include -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources/armv7 -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources -F/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos -include /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch -MMD -MT dependencies -MF /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageView.d -c /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageView.m -o /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageView.o36"5E60CD30-ED8E-4927-93C4-97519C1166A4-
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageVignetteFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageVignetteFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ../build/GPUImage.build/Debug-iphoneos/GPUImage.build/Objects-normal/armv7/GPUImageYellowFilter.o /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImageYellowFilter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLibtool /Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/libGPUImage.a normal armv7
+r0
+
+CProcessPCH /Users/lovemuz98/Library/Developer/Xcode/DerivedData/GPUImage-aprvhejvbdsnwaepfmkgwuzgxjbz/Index/PrecompiledHeaders/GPUImage-Prefix-eivbpmpgqlsfqmcorvkciikxsqph_ast/GPUImage-Prefix.pch.pth Source/GPUImage-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-dnteiddrwevjzyawfuqucznrviza/GPUImage-Prefix.pch.pth Source/GPUImage-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s356961346.644371
+e356961347.319952
+r1
+xProcessPCH
+x/var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-dnteiddrwevjzyawfuqucznrviza/GPUImage-Prefix.pch.pth
+xSource/GPUImage-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Source/GPUImage-Prefix.pchc617a542cc46b541^7de95143cc46b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImage-Prefix.pch0000000000000000^2635"ProcessPCH /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-dnteiddrwevjzyawfuqucznrviza/GPUImage-Prefix.pch.pth Source/GPUImage-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Users/lovemuz98/Documents/BeautyCam/framework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -miphoneos-version-min=4.0 -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-generated-files.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-own-target-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-all-target-headers.hmap -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-project-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/include -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources/armv7 -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources -F/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos -c /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImage-Prefix.pch -o /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-dnteiddrwevjzyawfuqucznrviza/GPUImage-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-dnteiddrwevjzyawfuqucznrviza/GPUImage-Prefix.pch.d36"FAC62491-5111-47B9-AC58-88A93E57F467-
+
+CProcessPCH /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch.pth Source/GPUImage-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s356961346.642960
+e356961347.240247
+r1
+xProcessPCH
+x/var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch.pth
+xSource/GPUImage-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Source/GPUImage-Prefix.pch84baa442cc46b541^23db3d43cc46b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImage-Prefix.pch0000000000000000^2607"ProcessPCH /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch.pth Source/GPUImage-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lovemuz98/Documents/BeautyCam/framework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-generated-files.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-own-target-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-all-target-headers.hmap -iquote /Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/GPUImage-project-headers.hmap -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos/include -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources/armv7 -I/Users/lovemuz98/Documents/BeautyCam/framework/../build/GPUImage.build/Debug-iphoneos/GPUImage.build/DerivedSources -F/Users/lovemuz98/Documents/BeautyCam/framework/../build/Debug-iphoneos -c /Users/lovemuz98/Documents/BeautyCam/framework/Source/GPUImage-Prefix.pch -o /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/Fl/Fligg-+zHj4o9IEkuYNeak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPUImage-Prefix-elslmcozudrxqybovxohhxsenmub/GPUImage-Prefix.pch.d36"04F6D983-05CF-48DB-BBF1-CB6065A3F003-
+

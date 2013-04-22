@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'libOpenCV-Iphone' target in the 'libOpenCV-Iphone' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
+
